@@ -15,7 +15,7 @@ I'm thrilled to share my latest project, where I dive into setting up a secure A
 
 Below is the network topology for the setup:
 
-<img src="path-to-your-image/topology-diagram.png" alt="Topology Diagram" width="600" title="AWS Security Setup Topology">
+<img src="topology.png" alt="Topology Diagram" width="600" title="AWS Security Setup Topology">
 
 ## 💡 Why This Matters
 
